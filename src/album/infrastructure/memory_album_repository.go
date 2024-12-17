@@ -2,7 +2,7 @@ package infrastructure
 
 import (
 	"errors"
-	"learning_session/src/album/domain"
+	"go_learning/src/album/domain"
 )
 
 type MemoryAlbumRepository struct {

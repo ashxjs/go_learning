@@ -2,8 +2,8 @@
 package adapter
 
 import (
-	"learning_session/src/album/application"
-	"learning_session/src/album/domain"
+	"go_learning/src/album/application"
+	"go_learning/src/album/domain"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

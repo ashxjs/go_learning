@@ -2,9 +2,9 @@
 package main
 
 import (
-	"learning_session/src/album/adapter"
-	"learning_session/src/album/application"
-	"learning_session/src/album/infrastructure"
+	"go_learning/src/album/adapter"
+	"go_learning/src/album/application"
+	"go_learning/src/album/infrastructure"
 
 	"github.com/gin-gonic/gin"
 )

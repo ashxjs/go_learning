@@ -1,6 +1,6 @@
 package application
 
-import "learning_session/src/album/domain"
+import "go_learning/src/album/domain"
 
 type AlbumService struct {
 	repo domain.AlbumRepository
